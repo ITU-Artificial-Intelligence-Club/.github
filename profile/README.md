@@ -31,7 +31,11 @@ For the issues and pull requests, please follow the templates provided in the re
 We are more than happy to answer any questions and hear your feedback.
 
 Email: ituaiclub@itu.edu.tr
+
 Instagram: [@ituaiclub](https://www.instagram.com/ituaiclub/)
+
 Twitter: [@ituaiclub](https://x.com/ituaiclub)
+
 LinkedIn: [ITU AI Student Club](https://www.linkedin.com/company/itu-ai-student-club/)
+
 Website: [ituaiclub.itu.edu.tr](https://ituaiclub.itu.edu.tr/)
