@@ -9,6 +9,19 @@ Here we are hosting our projects, tools and resources for the community.
 
 Currently we have:
 - [Deep RL Course Resources](https://github.com/ITU-Artificial-Intelligence-Club/DeepRL): Resources for the Deep Reinforcement Learning course, you can also check the videos on our [YouTube channel](https://www.youtube.com/watch?v=wnpwsLYza1c&list=PLur4CSa3arNt6cmIzthUlJ6vnVEwkANWN&pp=iAQB).
+- [Introduction to Machine Learning 2024](https://github.com/ITU-Artificial-Intelligence-Club/intro_to_ml_24) from Çağan Kiper: Resources for the Introduction to Machine Learning course.
+- [ITU AI Club Project Website](https://github.com/ITU-Artificial-Intelligence-Club/ituai-club): Front-end repository for the ITU AI Club project website.
+- [ITU AI Club Backend](https://github.com/ITU-Artificial-Intelligence-Club/ituai-club-api): Backend repository for the ITU AI Club project website.
+- [Cez API](https://github.com/ITU-Artificial-Intelligence-Club/cez-api): Locally famous Cez game's API. You can check the game on [ituai.club/cez](https://ituai.club/cez).
+- [Mailo](https://github.com/ITU-Artificial-Intelligence-Club/mailo): A simple mailing service.
+- [Minecraft Backend Server](https://github.com/ITU-Artificial-Intelligence-Club/mc-backend): For our Minecraft Server, simple RestAPI to manage maps and player data.
+
+
+## Current & Upcoming Projects
+
+You can check our projects on the repository [ituai-projects](https://github.com/ITU-Artificial-Intelligence-Club/ituai-projects).
+
+The general guidelines to contribute are provided in the repository. You can also check the current projects and their status.
 
 
 ## General Contributing Guidelines
